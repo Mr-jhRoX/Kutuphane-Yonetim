@@ -1,0 +1,64 @@
+C:\Users\FURKAN\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\FURKAN\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\FURKAN\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\FURKAN\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\FURKAN\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\FURKAN\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\FURKAN\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\FURKAN\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\FURKAN\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\FURKAN\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UyeEklefrm.resources
+C:\Users\FURKAN\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UyeListelemefrm.resources
+C:\Users\FURKAN\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.AnaSayfa.resources
+C:\Users\FURKAN\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.KitapEklefrm.resources
+C:\Users\FURKAN\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.KitapListelefrm.resources
+C:\Users\FURKAN\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmanetKitapEklefrm.resources
+C:\Users\eren_\Documents\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\eren_\Documents\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\eren_\Documents\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\eren_\Documents\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\eren_\Documents\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.AnaSayfa.resources
+C:\Users\eren_\Documents\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmanetKitapEklefrm.resources
+C:\Users\eren_\Documents\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.KitapEklefrm.resources
+C:\Users\eren_\Documents\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.KitapListelefrm.resources
+C:\Users\eren_\Documents\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\eren_\Documents\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UyeEklefrm.resources
+C:\Users\eren_\Documents\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UyeListelemefrm.resources
+C:\Users\eren_\Documents\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\eren_\Documents\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\eren_\Documents\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\eren_\Documents\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\eren_\Documents\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmanetListeleme.resources
+E:\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+E:\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.AnaSayfa.resources
+E:\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmanetKitapEklefrm.resources
+E:\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmanetListeleme.resources
+E:\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.KitapEklefrm.resources
+E:\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.KitapListelefrm.resources
+E:\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UyeEklefrm.resources
+E:\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UyeListelemefrm.resources
+E:\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+E:\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\eren_\Desktop\Yeni klasör\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\eren_\Desktop\Yeni klasör\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\eren_\Desktop\Yeni klasör\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\eren_\Desktop\Yeni klasör\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\eren_\Desktop\Yeni klasör\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.AnaSayfa.resources
+C:\Users\eren_\Desktop\Yeni klasör\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmanetKitapEklefrm.resources
+C:\Users\eren_\Desktop\Yeni klasör\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmanetListeleme.resources
+C:\Users\eren_\Desktop\Yeni klasör\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.KitapEklefrm.resources
+C:\Users\eren_\Desktop\Yeni klasör\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.KitapListelefrm.resources
+C:\Users\eren_\Desktop\Yeni klasör\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\eren_\Desktop\Yeni klasör\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UyeEklefrm.resources
+C:\Users\eren_\Desktop\Yeni klasör\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UyeListelemefrm.resources
+C:\Users\eren_\Desktop\Yeni klasör\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\eren_\Desktop\Yeni klasör\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\eren_\Desktop\Yeni klasör\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\eren_\Desktop\Yeni klasör\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
